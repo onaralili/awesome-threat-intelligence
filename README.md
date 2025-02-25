@@ -690,6 +690,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
 Mrlooquer has created the first threat feed focused on systems with dual stack. Since IPv6 protocol has begun to be part of malware and fraud communications, It is necessary to detect and mitigate the threats in both protocols (IPv4 and IPv6).
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://ipreputationcheck.com/" target="_blank">IP Reputation Check</a>
+        </td>
+        <td>
+IP Reputation Check scans over 40 top blocklists to evaluate IP reputation, providing comprehensive details including network type, routing information, and up-to-date geolocation data.
+        </td>
+    </tr>
 </table>
 
 ## Formats
